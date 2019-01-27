@@ -13,7 +13,9 @@ specify a path to the publicKey file
 
 To use `gossh`, you need to get a GitHub token with an account 
 To get token, first, visit GitHub account settings page, then go to Applications for the user.
-set it in github.token in gitconfig:
+set it in github.
+
+token in gitconfig:
 
 ```
 git config --global github.token "github token"
