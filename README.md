@@ -7,7 +7,7 @@
 $ gossh [path]
 ```
 
-specify a path to the publicKey file
+specify a path to the public key file
 
 ### Github API Token
 
