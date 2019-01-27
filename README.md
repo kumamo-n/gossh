@@ -3,8 +3,14 @@
 
 ## Usage
 
-`$ gossh [path]`
+`
+$ gossh [path]
+`
+
 specify a path to the publicKey file
 
-##Install
-`go get github.com/kumamo-n/gossh`
+## Install
+`
+$ go get github.com/kumamo-n/gossh
+
+`
