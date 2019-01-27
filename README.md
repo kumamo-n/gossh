@@ -5,7 +5,6 @@
 
 `
 $ gossh [path]
-
 `
 
 specify a path to the publicKey file
@@ -13,7 +12,5 @@ specify a path to the publicKey file
 ## Install
 
 `
-
 $ go get github.com/kumamo-n/gossh
-
 `
