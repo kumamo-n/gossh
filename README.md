@@ -1,6 +1,7 @@
 # gossh
+  gossh is  programmatically add ssh key to github.com user account.
 
-Usage: 
+# Usage
 gossh [path]
 
-※specify a path to the publicKey file
+specify a path to the publicKey file
