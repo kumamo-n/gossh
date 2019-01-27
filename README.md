@@ -1,4 +1,6 @@
 # gossh
 
-Usage: gossh [path]
-specify a path to the publicKey file
+Usage: 
+gossh [path]
+
+※specify a path to the publicKey file
